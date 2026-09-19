@@ -99,7 +99,7 @@ elif page == "Log Analyzer":
         text = uploaded.read().decode("utf-8", errors="replace")
         source_label = uploaded.name
     elif SAMPLE_LOG_PATH.exists():
-        text = SAMPLE_LOG_PATH.read_text()
+        text = SAMPLE_LOG_PATH.read_text(encoding="utf-8", errors="replace")
         source_label = "sample_logs/app.log (bundled demo data)"
         st.info(f"No file uploaded — showing {source_label}. Upload your own above anytime.")
     else:
