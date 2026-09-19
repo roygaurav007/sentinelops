@@ -1,0 +1,400 @@
+2026-09-19 15:54:09 ERROR Database connection timeout after 30s
+2026-09-19 15:54:17 ERROR Unhandled exception in async worker: KeyError('user_id')
+2026-09-19 15:54:15 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 15:54:33 INFO Request completed in 124ms
+2026-09-19 15:54:37 ERROR NullPointerException in OrderProcessor.finalize()
+2026-09-19 15:54:29 INFO Cache refreshed successfully
+2026-09-19 15:54:33 WARNING Memory usage above 70%
+2026-09-19 15:54:58 INFO User session started
+2026-09-19 15:55:05 INFO Cache refreshed successfully
+2026-09-19 15:55:12 INFO Health check OK
+2026-09-19 15:55:09 INFO Health check OK
+2026-09-19 15:55:15 INFO Request completed in 124ms
+2026-09-19 15:55:57 INFO Cache refreshed successfully
+2026-09-19 15:55:01 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 15:56:01 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 15:54:39 INFO Cache refreshed successfully
+2026-09-19 15:55:29 INFO User session started
+2026-09-19 15:55:17 INFO User session started
+2026-09-19 15:56:15 INFO Cache refreshed successfully
+2026-09-19 15:56:03 INFO Request completed in 124ms
+2026-09-19 15:56:49 INFO Health check OK
+2026-09-19 15:54:51 INFO Health check OK
+2026-09-19 15:55:37 INFO User session started
+2026-09-19 15:57:13 INFO Health check OK
+2026-09-19 15:55:21 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 15:54:59 WARNING Deprecated API endpoint /v1/users called
+2026-09-19 15:57:37 INFO Request completed in 124ms
+2026-09-19 15:58:12 WARNING Memory usage above 70%
+2026-09-19 15:57:53 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 15:56:34 WARNING Response time exceeded 800ms threshold
+2026-09-19 15:57:39 INFO Cache refreshed successfully
+2026-09-19 15:55:42 INFO Request completed in 124ms
+2026-09-19 15:55:13 WARNING Memory usage above 70%
+2026-09-19 15:56:21 INFO Health check OK
+2026-09-19 15:59:15 INFO Cache refreshed successfully
+2026-09-19 15:56:29 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 15:57:09 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 15:55:23 INFO User session started
+2026-09-19 15:56:41 INFO Health check OK
+2026-09-19 15:57:24 WARNING Memory usage above 70%
+2026-09-19 15:56:09 INFO Request completed in 124ms
+2026-09-19 15:58:15 INFO Request completed in 124ms
+2026-09-19 16:00:27 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 15:57:01 INFO Cache refreshed successfully
+2026-09-19 15:56:21 INFO User session started
+2026-09-19 15:57:54 ERROR Unhandled exception in async worker: KeyError('user_id')
+2026-09-19 15:56:27 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 15:58:04 WARNING Retrying request to payment-service (attempt 2/3)
+2026-09-19 15:58:09 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 15:59:03 WARNING Deprecated API endpoint /v1/users called
+2026-09-19 15:59:59 INFO Health check OK
+2026-09-19 15:55:51 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 15:55:53 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 15:58:34 INFO Cache refreshed successfully
+2026-09-19 16:00:27 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 15:58:44 INFO Health check OK
+2026-09-19 16:01:37 INFO Health check OK
+2026-09-19 16:00:48 INFO Health check OK
+2026-09-19 16:02:51 INFO Request completed in 124ms
+2026-09-19 15:59:04 INFO Cache refreshed successfully
+2026-09-19 16:03:09 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:02:17 WARNING Memory usage above 70%
+2026-09-19 16:02:25 INFO Request completed in 124ms
+2026-09-19 16:01:30 INFO Request completed in 124ms
+2026-09-19 15:57:21 INFO Health check OK
+2026-09-19 15:56:19 INFO Cache refreshed successfully
+2026-09-19 15:59:39 INFO User session started
+2026-09-19 15:56:23 INFO Request completed in 124ms
+2026-09-19 15:59:49 INFO Request completed in 124ms
+2026-09-19 15:59:54 WARNING Retrying request to payment-service (attempt 2/3)
+2026-09-19 15:59:59 INFO Request completed in 124ms
+2026-09-19 15:58:53 INFO User session started
+2026-09-19 15:56:33 WARNING Deprecated API endpoint /v1/users called
+2026-09-19 16:00:14 WARNING Memory usage above 70%
+2026-09-19 16:02:47 INFO Cache refreshed successfully
+2026-09-19 16:04:09 WARNING Deprecated API endpoint /v1/users called
+2026-09-19 16:03:01 WARNING Memory usage above 70%
+2026-09-19 15:58:00 INFO User session started
+2026-09-19 15:56:45 INFO Cache refreshed successfully
+2026-09-19 16:02:03 INFO Health check OK
+2026-09-19 16:00:49 INFO Cache refreshed successfully
+2026-09-19 16:03:36 INFO Health check OK
+2026-09-19 16:02:21 INFO Request completed in 124ms
+2026-09-19 16:01:04 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 15:56:57 INFO Cache refreshed successfully
+2026-09-19 16:06:54 ERROR Unhandled exception in async worker: KeyError('user_id')
+2026-09-19 16:02:45 INFO Cache refreshed successfully
+2026-09-19 16:02:51 INFO Health check OK
+2026-09-19 16:07:21 INFO Cache refreshed successfully
+2026-09-19 15:58:36 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:06:09 INFO Request completed in 124ms
+2026-09-19 16:06:17 WARNING Deprecated API endpoint /v1/users called
+2026-09-19 15:58:45 WARNING Deprecated API endpoint /v1/users called
+2026-09-19 15:57:15 INFO Cache refreshed successfully
+2026-09-19 15:58:51 INFO Health check OK
+2026-09-19 16:03:39 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:02:09 INFO Request completed in 124ms
+2026-09-19 16:05:28 INFO Health check OK
+2026-09-19 16:08:51 WARNING Memory usage above 70%
+2026-09-19 16:00:45 INFO Request completed in 124ms
+2026-09-19 16:00:49 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:00:53 INFO Health check OK
+2026-09-19 16:02:39 CRITICAL Out of memory: process killed by OS
+2026-09-19 16:01:01 INFO Request completed in 124ms
+2026-09-19 16:01:05 INFO Cache refreshed successfully
+2026-09-19 15:59:24 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:04:45 INFO Cache refreshed successfully
+2026-09-19 15:59:30 INFO Health check OK
+2026-09-19 15:59:33 INFO User session started
+2026-09-19 16:06:52 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:06:59 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:01:33 WARNING Retrying request to payment-service (attempt 2/3)
+2026-09-19 15:59:45 WARNING Response time exceeded 800ms threshold
+2026-09-19 15:59:48 WARNING Deprecated API endpoint /v1/users called
+2026-09-19 16:01:45 INFO Health check OK
+2026-09-19 16:09:29 INFO User session started
+2026-09-19 15:59:57 INFO Health check OK
+2026-09-19 16:11:42 INFO Cache refreshed successfully
+2026-09-19 16:11:51 INFO Request completed in 124ms
+2026-09-19 16:00:06 INFO User session started
+2026-09-19 16:08:09 INFO User session started
+2026-09-19 16:04:14 INFO User session started
+2026-09-19 16:06:21 INFO Request completed in 124ms
+2026-09-19 16:06:27 INFO Cache refreshed successfully
+2026-09-19 15:58:17 INFO User session started
+2026-09-19 15:58:19 WARNING Deprecated API endpoint /v1/users called
+2026-09-19 16:04:39 INFO Request completed in 124ms
+2026-09-19 16:04:44 WARNING Deprecated API endpoint /v1/users called
+2026-09-19 16:02:41 INFO Request completed in 124ms
+2026-09-19 16:09:12 INFO Cache refreshed successfully
+2026-09-19 16:11:29 INFO Cache refreshed successfully
+2026-09-19 16:07:15 CRITICAL Primary database node unreachable — failing over to replica
+2026-09-19 16:11:45 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:07:27 INFO Request completed in 124ms
+2026-09-19 16:14:15 INFO Health check OK
+2026-09-19 15:58:39 INFO Health check OK
+2026-09-19 16:12:17 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 15:58:43 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:03:21 INFO Cache refreshed successfully
+2026-09-19 16:08:03 INFO Health check OK
+2026-09-19 16:12:49 ERROR Database connection timeout after 30s
+2026-09-19 16:01:12 WARNING Response time exceeded 800ms threshold
+2026-09-19 16:01:15 INFO Cache refreshed successfully
+2026-09-19 16:15:36 INFO Health check OK
+2026-09-19 15:58:57 WARNING Retrying request to payment-service (attempt 2/3)
+2026-09-19 16:08:39 INFO User session started
+2026-09-19 16:13:37 INFO Request completed in 124ms
+2026-09-19 15:59:03 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:01:33 INFO Request completed in 124ms
+2026-09-19 16:01:36 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:11:39 INFO User session started
+2026-09-19 16:14:17 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:11:53 INFO User session started
+2026-09-19 16:04:21 WARNING Memory usage above 70%
+2026-09-19 16:17:15 ERROR Unhandled exception in async worker: KeyError('user_id')
+2026-09-19 16:09:39 INFO User session started
+2026-09-19 16:12:21 INFO Health check OK
+2026-09-19 15:59:23 INFO User session started
+2026-09-19 16:04:41 CRITICAL Out of memory: process killed by OS
+2026-09-19 16:07:24 WARNING Response time exceeded 800ms threshold
+2026-09-19 15:59:29 INFO Health check OK
+2026-09-19 16:02:12 INFO Cache refreshed successfully
+2026-09-19 16:18:27 INFO User session started
+2026-09-19 15:59:35 INFO Request completed in 124ms
+2026-09-19 16:05:05 INFO User session started
+2026-09-19 16:10:39 ERROR 504 Gateway Timeout calling inventory-service
+2026-09-19 16:07:59 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:16:25 WARNING Response time exceeded 800ms threshold
+2026-09-19 16:19:21 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:08:14 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:08:19 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:08:24 INFO Cache refreshed successfully
+2026-09-19 16:11:21 INFO Cache refreshed successfully
+2026-09-19 16:05:41 INFO User session started
+2026-09-19 16:08:39 INFO Request completed in 124ms
+2026-09-19 15:59:59 INFO Cache refreshed successfully
+2026-09-19 16:02:57 ERROR Failed to write to disk: No space left on device
+2026-09-19 16:20:42 INFO Health check OK
+2026-09-19 16:03:03 WARNING Retrying request to payment-service (attempt 2/3)
+2026-09-19 16:06:05 ERROR 504 Gateway Timeout calling inventory-service
+2026-09-19 16:12:09 INFO Health check OK
+2026-09-19 16:21:18 INFO User session started
+2026-09-19 16:12:21 INFO Cache refreshed successfully
+2026-09-19 16:15:30 INFO Request completed in 124ms
+2026-09-19 16:15:37 INFO User session started
+2026-09-19 16:15:44 INFO Health check OK
+2026-09-19 16:00:21 INFO Request completed in 124ms
+2026-09-19 16:12:51 INFO Cache refreshed successfully
+2026-09-19 16:16:05 INFO Cache refreshed successfully
+2026-09-19 16:19:21 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:16:19 INFO Cache refreshed successfully
+2026-09-19 16:16:26 INFO Cache refreshed successfully
+2026-09-19 16:06:57 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:16:40 INFO User session started
+2026-09-19 16:07:05 ERROR Database connection timeout after 30s
+2026-09-19 16:13:39 INFO Request completed in 124ms
+2026-09-19 16:13:45 INFO Cache refreshed successfully
+2026-09-19 16:04:00 INFO Health check OK
+2026-09-19 16:17:15 CRITICAL Primary database node unreachable — failing over to replica
+2026-09-19 16:10:44 INFO Cache refreshed successfully
+2026-09-19 16:00:49 ERROR NullPointerException in OrderProcessor.finalize()
+2026-09-19 16:14:15 WARNING Response time exceeded 800ms threshold
+2026-09-19 16:17:43 INFO Request completed in 124ms
+2026-09-19 16:04:18 INFO Request completed in 124ms
+2026-09-19 16:17:57 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:14:39 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:04:27 INFO Request completed in 124ms
+2026-09-19 16:21:45 WARNING Retrying request to payment-service (attempt 2/3)
+2026-09-19 16:04:33 INFO Health check OK
+2026-09-19 16:15:03 ERROR Database connection timeout after 30s
+2026-09-19 16:01:09 INFO Cache refreshed successfully
+2026-09-19 16:15:15 INFO Cache refreshed successfully
+2026-09-19 16:08:17 INFO User session started
+2026-09-19 16:15:27 WARNING Response time exceeded 800ms threshold
+2026-09-19 16:15:33 INFO Health check OK
+2026-09-19 16:01:19 INFO User session started
+2026-09-19 16:12:09 INFO Cache refreshed successfully
+2026-09-19 16:26:42 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:26:51 CRITICAL Primary database node unreachable — failing over to replica
+2026-09-19 16:19:42 INFO Cache refreshed successfully
+2026-09-19 16:19:49 INFO Health check OK
+2026-09-19 16:12:34 INFO Health check OK
+2026-09-19 16:16:21 INFO Request completed in 124ms
+2026-09-19 16:20:10 WARNING Response time exceeded 800ms threshold
+2026-09-19 16:27:45 INFO Request completed in 124ms
+2026-09-19 16:12:54 INFO Request completed in 124ms
+2026-09-19 16:20:31 INFO Cache refreshed successfully
+2026-09-19 16:09:17 INFO Request completed in 124ms
+2026-09-19 16:24:33 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:17:03 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:17:09 INFO Cache refreshed successfully
+2026-09-19 16:09:33 INFO User session started
+2026-09-19 16:25:05 INFO Request completed in 124ms
+2026-09-19 16:13:34 INFO Cache refreshed successfully
+2026-09-19 16:13:39 INFO Cache refreshed successfully
+2026-09-19 16:29:24 WARNING Response time exceeded 800ms threshold
+2026-09-19 16:02:01 INFO User session started
+2026-09-19 16:17:51 WARNING Response time exceeded 800ms threshold
+2026-09-19 16:17:57 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:02:07 INFO Request completed in 124ms
+2026-09-19 16:14:09 INFO Cache refreshed successfully
+2026-09-19 16:30:18 INFO Health check OK
+2026-09-19 16:22:23 INFO Health check OK
+2026-09-19 16:02:15 INFO Request completed in 124ms
+2026-09-19 16:14:29 INFO Health check OK
+2026-09-19 16:22:44 INFO Request completed in 124ms
+2026-09-19 16:26:57 INFO Health check OK
+2026-09-19 16:14:44 WARNING Memory usage above 70%
+2026-09-19 16:31:21 INFO User session started
+2026-09-19 16:14:54 INFO Request completed in 124ms
+2026-09-19 16:14:59 INFO Request completed in 124ms
+2026-09-19 16:19:15 ERROR NullPointerException in OrderProcessor.finalize()
+2026-09-19 16:15:09 WARNING Memory usage above 70%
+2026-09-19 16:23:40 INFO Health check OK
+2026-09-19 16:28:01 INFO Cache refreshed successfully
+2026-09-19 16:32:24 INFO Cache refreshed successfully
+2026-09-19 16:15:29 INFO User session started
+2026-09-19 16:28:25 INFO User session started
+2026-09-19 16:11:21 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:15:44 INFO Cache refreshed successfully
+2026-09-19 16:07:09 CRITICAL Out of memory: process killed by OS
+2026-09-19 16:15:54 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:02:53 INFO Request completed in 124ms
+2026-09-19 16:16:04 ERROR 504 Gateway Timeout calling inventory-service
+2026-09-19 16:29:21 WARNING Retrying request to payment-service (attempt 2/3)
+2026-09-19 16:29:29 INFO Health check OK
+2026-09-19 16:20:45 WARNING Memory usage above 70%
+2026-09-19 16:29:45 ERROR NullPointerException in OrderProcessor.finalize()
+2026-09-19 16:20:57 INFO Health check OK
+2026-09-19 16:12:05 INFO User session started
+2026-09-19 16:16:39 INFO Health check OK
+2026-09-19 16:03:11 INFO Health check OK
+2026-09-19 16:12:17 INFO Health check OK
+2026-09-19 16:16:54 WARNING Response time exceeded 800ms threshold
+2026-09-19 16:16:59 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:07:54 INFO Cache refreshed successfully
+2026-09-19 16:03:21 INFO Cache refreshed successfully
+2026-09-19 16:21:51 ERROR Failed to write to disk: No space left on device
+2026-09-19 16:08:03 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:03:27 INFO Health check OK
+2026-09-19 16:08:09 INFO Health check OK
+2026-09-19 16:22:15 WARNING Retrying request to payment-service (attempt 2/3)
+2026-09-19 16:03:33 ERROR 504 Gateway Timeout calling inventory-service
+2026-09-19 16:27:10 INFO Request completed in 124ms
+2026-09-19 16:27:17 INFO Health check OK
+2026-09-19 16:22:39 WARNING Memory usage above 70%
+2026-09-19 16:03:41 INFO Health check OK
+2026-09-19 16:37:12 ERROR Unhandled exception in async worker: KeyError('user_id')
+2026-09-19 16:18:09 INFO Request completed in 124ms
+2026-09-19 16:18:14 WARNING Memory usage above 70%
+2026-09-19 16:03:49 WARNING Retrying request to payment-service (attempt 2/3)
+2026-09-19 16:18:24 WARNING Memory usage above 70%
+2026-09-19 16:18:29 INFO Health check OK
+2026-09-19 16:08:48 INFO Request completed in 124ms
+2026-09-19 16:33:21 WARNING Retrying request to payment-service (attempt 2/3)
+2026-09-19 16:13:49 INFO Cache refreshed successfully
+2026-09-19 16:38:33 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:38:42 INFO Request completed in 124ms
+2026-09-19 16:09:03 INFO Request completed in 124ms
+2026-09-19 16:34:01 WARNING Response time exceeded 800ms threshold
+2026-09-19 16:14:09 INFO User session started
+2026-09-19 16:14:13 WARNING Response time exceeded 800ms threshold
+2026-09-19 16:04:13 INFO Request completed in 124ms
+2026-09-19 16:39:36 WARNING Deprecated API endpoint /v1/users called
+2026-09-19 16:19:29 INFO Health check OK
+2026-09-19 16:14:29 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:34:57 INFO Request completed in 124ms
+2026-09-19 16:35:05 INFO Request completed in 124ms
+2026-09-19 16:24:57 INFO User session started
+2026-09-19 16:40:30 INFO Request completed in 124ms
+2026-09-19 16:19:59 INFO User session started
+2026-09-19 16:40:48 INFO Cache refreshed successfully
+2026-09-19 16:20:09 INFO Request completed in 124ms
+2026-09-19 16:04:35 WARNING Deprecated API endpoint /v1/users called
+2026-09-19 16:36:01 INFO User session started
+2026-09-19 16:15:09 WARNING Response time exceeded 800ms threshold
+2026-09-19 16:20:29 INFO User session started
+2026-09-19 16:41:42 INFO Health check OK
+2026-09-19 16:04:45 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:36:41 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:31:29 WARNING Response time exceeded 800ms threshold
+2026-09-19 16:31:36 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:42:27 WARNING Retrying request to payment-service (attempt 2/3)
+2026-09-19 16:37:13 INFO Request completed in 124ms
+2026-09-19 16:31:57 INFO Request completed in 124ms
+2026-09-19 16:15:49 WARNING Retrying request to payment-service (attempt 2/3)
+2026-09-19 16:05:01 INFO Request completed in 124ms
+2026-09-19 16:15:57 ERROR Database connection timeout after 30s
+2026-09-19 16:26:57 ERROR Database connection timeout after 30s
+2026-09-19 16:27:03 INFO Health check OK
+2026-09-19 16:32:39 INFO Health check OK
+2026-09-19 16:32:46 WARNING Response time exceeded 800ms threshold
+2026-09-19 16:21:49 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:44:06 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:27:33 INFO Request completed in 124ms
+2026-09-19 16:16:29 INFO Request completed in 124ms
+2026-09-19 16:38:57 INFO Request completed in 124ms
+2026-09-19 16:27:51 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:33:35 INFO User session started
+2026-09-19 16:45:00 INFO Cache refreshed successfully
+2026-09-19 16:28:09 INFO Health check OK
+2026-09-19 16:11:12 INFO Cache refreshed successfully
+2026-09-19 16:11:15 INFO Request completed in 124ms
+2026-09-19 16:28:27 INFO Health check OK
+2026-09-19 16:05:37 INFO Cache refreshed successfully
+2026-09-19 16:34:24 ERROR Database connection timeout after 30s
+2026-09-19 16:34:31 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:46:12 INFO Health check OK
+2026-09-19 16:34:45 INFO Health check OK
+2026-09-19 16:46:30 INFO Cache refreshed successfully
+2026-09-19 16:17:29 INFO Health check OK
+2026-09-19 16:35:06 INFO Health check OK
+2026-09-19 16:41:05 INFO Health check OK
+2026-09-19 16:23:34 INFO Request completed in 124ms
+2026-09-19 16:47:15 INFO Request completed in 124ms
+2026-09-19 16:17:49 WARNING Retrying request to payment-service (attempt 2/3)
+2026-09-19 16:35:41 INFO Request completed in 124ms
+2026-09-19 16:17:57 INFO Cache refreshed successfully
+2026-09-19 16:12:03 INFO Cache refreshed successfully
+2026-09-19 16:18:05 INFO Cache refreshed successfully
+2026-09-19 16:48:09 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:42:17 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:06:13 INFO Request completed in 124ms
+2026-09-19 16:30:27 INFO User session started
+2026-09-19 16:18:25 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:36:44 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:30:45 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:24:44 INFO User session started
+2026-09-19 16:18:41 INFO Request completed in 124ms
+2026-09-19 16:37:12 WARNING Response time exceeded 800ms threshold
+2026-09-19 16:49:39 INFO Cache refreshed successfully
+2026-09-19 16:18:53 INFO User session started
+2026-09-19 16:06:33 WARNING Retrying request to payment-service (attempt 2/3)
+2026-09-19 16:50:06 INFO Health check OK
+2026-09-19 16:37:47 INFO User session started
+2026-09-19 16:31:39 INFO Health check OK
+2026-09-19 16:44:17 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:31:51 INFO Cache refreshed successfully
+2026-09-19 16:50:51 INFO Cache refreshed successfully
+2026-09-19 16:13:06 INFO Cache refreshed successfully
+2026-09-19 16:13:09 INFO Cache refreshed successfully
+2026-09-19 16:44:57 WARNING Response time exceeded 800ms threshold
+2026-09-19 16:25:59 INFO User session started
+2026-09-19 16:13:18 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:06:57 INFO Request completed in 124ms
+2026-09-19 16:19:49 CRITICAL Primary database node unreachable — failing over to replica
+2026-09-19 16:39:11 WARNING Response time exceeded 800ms threshold
+2026-09-19 16:45:45 WARNING Retrying request to payment-service (attempt 2/3)
+2026-09-19 16:20:01 ERROR NullPointerException in OrderProcessor.finalize()
+2026-09-19 16:33:03 INFO Request completed in 124ms
+2026-09-19 16:52:39 INFO Request completed in 124ms
+2026-09-19 16:46:17 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:13:45 INFO Health check OK
+2026-09-19 16:46:33 INFO Request completed in 124ms
+2026-09-19 16:53:15 INFO Health check OK
+2026-09-19 16:53:24 INFO User session started
+2026-09-19 16:13:57 INFO Scheduled job 'cleanup_temp_files' finished
+2026-09-19 16:53:42 INFO Request completed in 124ms
+2026-09-19 16:47:13 ERROR Database connection timeout after 30s
+2026-09-19 16:14:06 INFO Health check OK
